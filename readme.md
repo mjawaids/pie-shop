@@ -1,5 +1,7 @@
 # HTML and CSS Fundamentals
 
+>Check the branches for different versions developed using different approaches.
+
 ## Setup
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
