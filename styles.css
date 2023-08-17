@@ -64,3 +64,22 @@ table, td, th {
     border-collapse: collapse;
     padding: 5px;
 }
+
+nav>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav>ul>li {
+    float: left;
+}
+
+nav>ul>li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
